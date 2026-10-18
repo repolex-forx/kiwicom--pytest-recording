@@ -1,0 +1,11 @@
+{
+  "org": "kiwicom",
+  "repo": "pytest-recording",
+  "versions": [
+    {
+      "commit": "243e582d5502ebaac90ada5c903fe6f26f7dbbbc",
+      "tag": "v0.14.0",
+      "parsed_at": "2026-10-18T05:21:17.502323+00:00"
+    }
+  ]
+}
