@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/kiwicom/pytest-recording/commit/243e582d5502ebaac90ada5c903fe6f26f7dbbbc",
       "git:hexsha": "243e582d5502ebaac90ada5c903fe6f26f7dbbbc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.14.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.14.0",
+      "repolex:parsedAt": "2026-10-18T05:21:17.501630+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kiwicom/pytest-recording/commit/a41303fe6a7c5de0556f34690311ffdd98245da1",
